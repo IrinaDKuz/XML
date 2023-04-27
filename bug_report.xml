@@ -1,1 +1,19 @@
-
+<bug_title>Неправильное отображение картинок на главной странице</bug_title>
+  <bug_description>Картинки на главной странице не отображаются корректно при использовании Internet Explorer 11</bug_description>
+  <steps_to_reproduce>Открыть сайт на Internet Explorer 11</steps_to_reproduce>
+  <steps_to_reproduce>Перейти на главную страницу</steps_to_reproduce>
+  <steps_to_reproduce>Убедиться, что картинки не отображаются корректно</steps_to_reproduce>
+  <expected_result>Картинки на главной странице должны отображаться корректно</expected_result>
+  <actual_result>Картинки на главной странице отображаются некорректно</actual_result>
+  <severity>medium</severity>
+  <priority>high</priority>
+  <reported_by>
+    <name>Ирина Кузнецова</name>
+    <email>irina@mail.ru</email>
+  </reported_by>
+  <date_reported>2023-04-27T10:30:00Z</date_reported>
+  <attachments>
+    <filename>screenshot.png</filename>
+    <content_type>image/png</content_type>
+    <data>base64-encoded-data</data>
+  </attachments>
